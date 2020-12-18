@@ -1,6 +1,6 @@
 
-[[constraint]]
-  branch = "master"
+[[override]]
+  branch = "step/step87_support_appclip_workflow"
   name = "github.com/bitrise-io/bitrise-init"
 
 [[constraint]]
